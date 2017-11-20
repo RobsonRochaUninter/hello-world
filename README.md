@@ -1,2 +1,4 @@
 # hello-world
-Apenas outro repositório
+Olá,
+
+Iniciando em programação...
